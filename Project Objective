@@ -1,0 +1,19 @@
+#Project Objective
+
+The objective of this AI-Based Resume Analyzer is to create a system that analyzes resumes and provides insightful information about their content, skills, qualifications, and relevance to a specific job role.
+
+The project aims to:
+
+- Define a problem: The issue many students and job seekers face is understanding if their resume includes the necessary skills and information for a specific job role.
+
+- Design a technical solution: A resume analyzing application will be designed and built to analyze resume content and extract important information such as skills, education, experience, and keywords.
+
+- Implement the solution using the appropriate technologies: The application will utilize programming and AI-based techniques to analyze the content of the resumes which will be created.
+
+- Improve the resume: The application will help to improve the resume by providing information about the necessary skills, keywords, and experience that should be included.
+
+- Provide a job-role analysis: The application will analyze the skills and keywords in the resume and compare them with the selected job role.
+
+- Demonstrate the course concepts: The application will show how the concepts covered during the course can be implemented in an AI-based application.
+
+- Document and evaluate the system: The project report will document and evaluate the system design, implementation, testing, results, limitations, and future work.
