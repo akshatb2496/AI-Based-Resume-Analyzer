@@ -165,7 +165,7 @@ output/analysis-report.txt
 
 ## Author
 
-Add your name, college, branch, and GitHub profile before submission.
+Akshat Bajpai
 
 ## License
 
