@@ -1,4 +1,4 @@
-# AI-Based-Resume-Analyzer
+# AI-Based Resume Analyzer
 
 A beginner-friendly Java command-line project that analyzes a resume against a job description. It extracts common skills, calculates a job-match percentage, identifies missing skills, and generates an analysis report.
 
