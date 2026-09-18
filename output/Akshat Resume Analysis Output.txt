@@ -1,0 +1,73 @@
+==============================================
+           RESUME ANALYSIS REPORT
+==============================================
+Candidate       : Akshat Bajpai
+Job Title       : Java Developer
+
+Resume Skills
+----------------------------------------------
+• java
+• python
+• html
+• css
+• sql
+• git
+• github
+• data structures
+• algorithms
+• communication
+• problem solving
+
+Required Skills
+----------------------------------------------
+• java
+• sql
+• mysql
+• git
+• github
+• spring boot
+• spring
+• rest api
+• api
+• data structures
+• algorithms
+
+Matched Skills
+----------------------------------------------
+• java
+• sql
+• git
+• github
+• data structures
+• algorithms
+
+Missing Skills
+----------------------------------------------
+• mysql
+• spring boot
+• spring
+• rest api
+• api
+
+Match Score
+----------------------------------------------
+54.55%
+
+Suggestions
+----------------------------------------------
+Consider learning or adding evidence of: mysql.
+Consider learning or adding evidence of: spring boot.
+Consider learning or adding evidence of: spring.
+Consider learning or adding evidence of: rest api.
+Consider learning or adding evidence of: api.
+
+==============================================
+Note: This project uses rule-based text analysis and
+a predefined skill dictionary. It is not a trained
+machine-learning model.
+==============================================
+
+
+Report saved to: output/analysis-report.txt
+
+Process finished with exit code 0
