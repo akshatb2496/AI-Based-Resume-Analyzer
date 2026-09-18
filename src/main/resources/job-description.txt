@@ -1,0 +1,12 @@
+Job Title: Java Developer
+
+We are looking for a Java Developer with good programming and
+problem-solving skills.
+
+Required Skills:
+Java, SQL, Git, GitHub, Spring Boot, REST API, MySQL,
+Data Structures, Algorithms
+
+Responsibilities:
+Develop Java applications, work with databases, build APIs,
+and collaborate with the development team.

@@ -1,0 +1,15 @@
+Name: Akshat Bajpai
+
+Education:
+B.Tech Computer Science Engineering
+
+Skills:
+Java, Python, HTML, CSS, SQL, Git, GitHub, Data Structures,
+Algorithms, Communication, Problem Solving
+
+Projects:
+Student Management System
+Library Management System
+
+Experience:
+Java Development Internship
